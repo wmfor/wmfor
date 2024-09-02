@@ -1,31 +1,46 @@
 ## Hi there 👋
-## I'm Weston, and I've been here on GitHub since 2014, 10 years now! oh how the time has flown :)
+### I'm Weston, and I've been on GitHub for 10 years now! ⚡
 
-I've worked on a large plethora of different types of projects throughout my time on here.
-From Web, to Software, to APIs, to Mobile, to Libraries, and more. 
+I've explored a wide array of projects over the years, ranging from Web and Software development to APIs, Mobile apps, Libraries, and beyond.
 
-My primary specialization has been Game Development within Unity, since around the same time I joined this platform.
-I offer contract Game Development services, just shoot me an email on my work address  weston@techsake.ca 
+### 🔧 My Specializations
+My primary expertise lies in **Game Development with Unity**, which has been my focus since joining GitHub. I also offer contract Game Development services—feel free to reach out at [weston@techsake.ca](mailto:weston@techsake.ca).
 
-I'm the Lead Developer & Founder of the group 'TechSake', a group I formed simply to find some sense of collective in this 
-seemingly boundless world of computer science. I've spent a large amount of my time developing in complete solitude, which
-can be peaceful but simultaneously prevent you from fully exercising your brain on a daily basis.
+As the Lead Developer and Founder of **TechSake**, I created this group to find a collective in the vast world of computer science. Although I've often developed in solitude, I'm now embracing collaboration and learning from others, particularly as I dive deeper into web development.
 
-I've recently started to venture more into the web side of CS, and the value I've been getting out of it has been immense.
-Just a year ago, I was struggling to understand React & Static Webpages, now I've successfully been able to create a custom
-social media web application, with relative ease-- primarily due to my work with learning the new .NET Aspire toolset. (a fantastic tool by the way.)
+Over the past year, I've significantly expanded my web development skills. A year ago, I was just getting to grips with React and static web pages; now, I’ve successfully developed a custom social media web application, thanks in large part to the .NET Aspire toolset.
+
+### 🛠️ Technologies & Skill Levels
+
+- **C#**  
+  <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" alt="C# Icon" width="50" />  
+  Advanced – Projects: [Project 1](#), [Project 2](#)
+  
+- **Java**  
+  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java Icon" width="50" />  
+  Intermediate – Projects: [Project 1](#), [Project 2](#)
+
+- **HTML/CSS**  
+  <img src="https://meghangutshall.com/img/post-images/html-css.png" alt="HTML/CSS Icon" width="75" />  
+  Advanced – Projects: [Project 1](#), [Project 2](#)
+  
+- **JavaScript/TypeScript**  
+  <img src="https://www.adm.ee/wordpress/wp-content/uploads/2023/12/javascript_and_typescript-1.jpg" alt="JS/TS Icon" width="75" />  
+  Proficient – Projects: [Project 1](#), [Project 2](#)
+
+- **Python**  
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030224.png?f=webp" alt="Python Icon" width="50" />  
+  Proficient – Projects: [Project 1](#)
+  
+- **Lua**  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/2048px-Lua-Logo.svg.png" alt="Lua Icon" width="50" />  
+  Novice – Projects: [Project 1](#)
+  
+- **Dart (Flutter)**  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png" alt="Dart Icon" width="50" />  
+  Novice – Projects: [Project 1](#)
 
 
-
-
-<a href="url"><img src="[http://url.to/image.png](https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png)" align="left" height="120" width="120" ></a>
-C#
-Java
-Python
-Lua
-HTML/CSS/TailwindCSS
-JavaScript/Typescript
-Dart
  <!--
 **turacept/turacept** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
