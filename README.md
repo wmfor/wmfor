@@ -10,7 +10,10 @@ As the Lead Developer and Founder of **TechSake**, I created this group to find 
 
 Over the past year, I've significantly expanded my web development skills. A year ago, I was just getting to grips with React and static web pages; now, I’ve successfully developed a custom social media web application, thanks in large part to the .NET Aspire toolset.
 
-### 🛠️ Technologies & Skill Levels
+## 🛠️ Technologies & Skill Levels
+
+<details>
+  <summary>Click to expand the Skills Showcase</summary>
 
 - **C#**  
   <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" alt="C# Icon" width="50" />  
@@ -39,6 +42,8 @@ Over the past year, I've significantly expanded my web development skills. A yea
 - **Dart (Flutter)**  
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png" alt="Dart Icon" width="50" />  
   Novice – Projects: [Project 1](#)
+
+</details>
 
 ## 📸 Projects Showcase
 
