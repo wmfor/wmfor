@@ -10,6 +10,10 @@ As the Lead Developer and Founder of **TechSake**, I created this group to find 
 
 Over the past year, I've significantly expanded my web development skills. A year ago, I was just getting to grips with React and static web pages; now, I’ve successfully developed a custom social media web application, thanks in large part to the .NET Aspire toolset.
 
+<br/>
+<br/>
+<br/>
+
 ## 🛠️ Technologies & Skill Levels
 
 <details>
