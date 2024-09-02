@@ -1,9 +1,12 @@
 ## Hi there 👋
-## I'm Weston, and I've been here on GitHub since 2014, 
-10 years now! oh how the time has flown :)
+## I'm Weston, and I've been here on GitHub since 2014, 10 years now! oh how the time has flown :)
 
+I've worked on a large plethora of different types of projects throughout my time on here.
+From Web, to Software, to APIs, to Mobile, to Libraries, and more. 
 
-<!--
+My primary specialization has been Game Development within Unity, since around the same time I joined this platform.
+I offer contract game development services, just shoot me an email on my work address @ " weston@techsake.ca "
+ <!--
 **turacept/turacept** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
