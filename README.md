@@ -3,6 +3,8 @@
 
 I've explored a wide array of projects over the years, ranging from Web and Software development to APIs, Mobile apps, Libraries, and beyond.
 
+![Picture of Me](images/westonMe.png)
+
 ### 🔧 My Specializations
 My primary expertise lies in **Game Development with Unity**, which has been my focus since joining GitHub. I also offer contract Game Development services—feel free to reach out at [weston@techsake.ca](mailto:weston@techsake.ca).
 
