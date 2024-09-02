@@ -12,7 +12,6 @@ Over the past year, I've significantly expanded my web development skills. A yea
 
 <br/>
 <br/>
-<br/>
 
 ## 🛠️ Technologies & Skill Levels
 
