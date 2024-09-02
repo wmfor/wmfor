@@ -40,6 +40,63 @@ Over the past year, I've significantly expanded my web development skills. A yea
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png" alt="Dart Icon" width="50" />  
   Novice – Projects: [Project 1](#)
 
+## 📸 Projects Showcase
+
+### 1. Social Tab Interface
+![Social Tab Interface](images/mobilgame.png)
+
+A snapshot from one of my Unity projects showcasing the social interaction interface. This screen allows players to manage their friends and incoming requests in a clean, user-friendly layout.
+
+---
+
+### 2. Base Building Interface
+![Base Building Interface](images/mobegame.png)
+
+This is the base building interface where players can manage and upgrade their structures. The clean UI makes it easy for players to navigate through different building options.
+
+---
+
+### 3. Image Ninja - Image Editing Tool
+![Image Ninja Tool](images/imageninja.png)
+
+An image editing software I developed called "Image Ninja," which allows users to crop, apply filters, adjust colors, and even upscale images with AI tools. The intuitive UI ensures a smooth user experience.
+
+---
+
+### 4. RPG Battle Interface
+![RPG Battle Interface](images/600d.png)
+
+A dark-themed battle interface for an RPG game I'm developing. It features a strategic combat system where players can manage their skills and abilities against enemies.
+
+---
+
+### 5. GraviCube Game Menu
+![GraviCube Game Menu](images/gravicube.png)
+
+The main menu for my game "GraviCube," offering options to continue, select levels, choose skins, and access the editor. The vibrant colors and clean layout ensure an engaging user experience.
+
+---
+
+### 6. GraviCube Level Selection
+![GraviCube Level Selection](images/gravicubeitems.png)
+
+The level selection screen in "GraviCube," featuring a clear and simple design for navigating different stages of the game.
+
+---
+
+### 7. Inventory System in RPG
+![Inventory System in RPG](images/hvm.png)
+
+An inventory system interface from an RPG game, displaying various equipment slots and items available in the store. The design emphasizes clarity and ease of use.
+
+---
+
+### 8. User List Interface in Web Application
+![User List Interface](images/socmed.png)
+
+A user management interface from a web application I built. This page allows admins to view and manage user accounts efficiently, with options to delete accounts directly from the UI.
+
+
 
  <!--
 **turacept/turacept** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
