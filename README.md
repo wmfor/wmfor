@@ -6,6 +6,10 @@ From Web, to Software, to APIs, to Mobile, to Libraries, and more.
 
 My primary specialization has been Game Development within Unity, since around the same time I joined this platform.
 I offer contract game development services, just shoot me an email on my work address @ " weston@techsake.ca "
+
+I'm the Lead Developer & Founder of the group 'TechSake', a group I formed simply to find some sense of collective in this 
+seemingly boundless world of computer science. I've spent a large amount of my time developing in complete solitude, which
+can be peaceful but simultaneously prevent you from fully exercising your brain on a daily basis.
  <!--
 **turacept/turacept** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
