@@ -3,14 +3,15 @@
 
 I've explored a wide array of projects over the years, ranging from Web and Software development to APIs, Mobile apps, Libraries, and beyond.
 
-![Picture of Me](images/westonMe.png)
-
 ### 🔧 My Specializations
 My primary expertise lies in **Game Development with Unity**, which has been my focus since joining GitHub. I also offer contract Game Development services—feel free to reach out at [weston@techsake.ca](mailto:weston@techsake.ca).
 
 As the Lead Developer and Founder of **TechSake**, I created this group to find a collective in the vast world of computer science. Although I've often developed in solitude, I'm now embracing collaboration and learning from others, particularly as I dive deeper into web development.
 
 Over the past year, I've significantly expanded my web development skills. A year ago, I was just getting to grips with React and static web pages; now, I’ve successfully developed a custom social media web application, thanks in large part to the .NET Aspire toolset.
+
+<br/>
+<br/>
 
 ## 🛠️ Technologies & Skill Levels
 
