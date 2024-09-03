@@ -1,57 +1,57 @@
-## Hi there 👋
-### I'm Weston, and I've been on GitHub for 10 years now! ⚡
+## Hello World! 👋  
+### I'm Weston—Celebrating a Decade on GitHub! ⚡
 
-I've explored a wide array of projects over the years, ranging from Web and Software development to APIs, Mobile apps, Libraries, and beyond.
+Over the past 10 years, I've had the privilege of diving deep into a variety of projects, spanning **Web and Software Development**, **APIs**, **Mobile Apps**, **Libraries**, and much more.
 
-### 🔧 My Specializations
-My primary expertise lies in **Game Development with Unity**, which has been my focus since joining GitHub. I also offer contract Game Development services—feel free to reach out at [weston@techsake.ca](mailto:weston@techsake.ca).
+## 🔧 My Core Expertise
+My journey has primarily revolved around **Game Development with Unity**, which has been my passion and focus since I first joined GitHub. In addition to personal projects, I offer contract Game Development services. Feel free to reach out at [weston@techsake.ca](mailto:weston@techsake.ca) for collaboration opportunities.
 
-As the Lead Developer and Founder of **TechSake**, I created this group to find a collective in the vast world of computer science. Although I've often developed in solitude, I'm now embracing collaboration and learning from others, particularly as I dive deeper into web development.
+As the Lead Developer and Founder of **TechSake**, I established this group to create a collaborative space within the expansive world of computer science. While much of my development has been solo, I'm now embracing collaboration and expanding my skill set, particularly in web development.
 
-Over the past year, I've significantly expanded my web development skills. A year ago, I was just getting to grips with React and static web pages; now, I’ve successfully developed a custom social media web application, thanks in large part to the .NET Aspire toolset.
+This past year has been pivotal in my growth as a web developer. What started as a basic understanding of React and static web pages has evolved into the successful creation of a custom social media web application, leveraging the power of the .NET Aspire toolset.
 
-<br/>
-<br/>
-
-## 🛠️ Technologies & Skill Levels
-
+## 🌟 Highlights & Achievements
 <details>
-  <summary>Click to expand the Skills Showcase</summary>
-
-- **C#**  
-  <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" alt="C# Icon" width="50" />  
-  Advanced – Projects: [Project 1](#), [Project 2](#)
+  <summary>Click to explore my highlights</summary>
   
-- **Java**  
-  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java Icon" width="50" />  
-  Intermediate – Projects: [Project 1](#), [Project 2](#)
-
-- **HTML/CSS**  
-  <img src="https://meghangutshall.com/img/post-images/html-css.png" alt="HTML/CSS Icon" width="75" />  
-  Advanced – Projects: [Project 1](#), [Project 2](#)
-  
-- **JavaScript/TypeScript**  
-  <img src="https://www.adm.ee/wordpress/wp-content/uploads/2023/12/javascript_and_typescript-1.jpg" alt="JS/TS Icon" width="75" />  
-  Proficient – Projects: [Project 1](#), [Project 2](#)
-
-- **Python**  
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-5-pack-logos-icons-3030224.png?f=webp" alt="Python Icon" width="50" />  
-  Proficient – Projects: [Project 1](#)
-  
-- **Lua**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/2048px-Lua-Logo.svg.png" alt="Lua Icon" width="50" />  
-  Novice – Projects: [Project 1](#)
-  
-- **Dart (Flutter)**  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png" alt="Dart Icon" width="50" />  
-  Novice – Projects: [Project 1](#)
+- **10+ Years on GitHub:** A journey of continuous learning and growth across various domains.
+- **Unity Expertise:** Spearheaded multiple game development projects, from concept to deployment.
+- **Founder of TechSake:** Building a collective focused on innovation and collaboration in tech.
 
 </details>
 
-## 📸 Projects Showcase
+## 🛠️ Technologies & Expertise Levels
 
 <details>
-  <summary>Click to expand the Projects Showcase</summary>
+  <summary>Click to explore my skills</summary>
+
+- **C#**  
+  **Advanced** – Projects: [Project 1](#), [Project 2](#)
+  
+- **Java**  
+  **Intermediate** – Projects: [Project 1](#), [Project 2](#)
+
+- **HTML/CSS**  
+  **Advanced** – Projects: [Project 1](#), [Project 2](#)
+  
+- **JavaScript/TypeScript**   
+  **Proficient** – Projects: [Project 1](#), [Project 2](#)
+
+- **Python**  
+  **Proficient** – Projects: [Project 1](#)
+  
+- **Lua**  
+  **Novice** – Projects: [Project 1](#)
+  
+- **Dart (Flutter)**  
+  **Novice** – Projects: [Project 1](#)
+
+</details>
+
+## 📸 Featured Projects
+
+<details>
+  <summary>Click to explore my work</summary>
 
   ### 1. Social Tab Interface
   ![Social Tab Interface](images/mobilgame.png)
@@ -63,42 +63,42 @@ Over the past year, I've significantly expanded my web development skills. A yea
   ### 2. Base Building Interface
   ![Base Building Interface](images/mobegame.png)
   
-  This is the base building interface where players can manage and upgrade their structures. The clean UI makes it easy for players to navigate through different building options.
+  A streamlined UI for managing and upgrading structures within the game, designed for ease of use and clarity.
 
   ---
 
   ### 3. Image Ninja - Image Editing Tool
   ![Image Ninja Tool](images/imageninja.png)
   
-  An image editing software I developed called "Image Ninja," which allows users to crop, apply filters, adjust colors, and even upscale images with AI tools. The intuitive UI ensures a smooth user experience.
+  "Image Ninja" is an image editing software that I developed, enabling users to crop, apply filters, adjust colors, and upscale images using AI. Its intuitive UI ensures a smooth user experience.
 
   ---
 
   ### 4. RPG Battle Interface
   ![RPG Battle Interface](images/600d.png)
   
-  A dark-themed battle interface for an RPG game I'm developing. It features a strategic combat system where players can manage their skills and abilities against enemies.
+  A dark-themed battle interface for an RPG game. This system allows players to strategically manage their skills and abilities during combat.
 
   ---
 
   ### 5. GraviCube Game Menu
   ![GraviCube Game Menu](images/gravicube.png)
   
-  The main menu for my game "GraviCube," offering options to continue, select levels, choose skins, and access the editor. The vibrant colors and clean layout ensure an engaging user experience.
+  The main menu of "GraviCube," featuring vibrant colors and a clean layout to enhance user engagement. Options include continuing the game, selecting levels, choosing skins, and accessing the editor.
 
   ---
 
   ### 6. GraviCube Level Selection
   ![GraviCube Level Selection](images/gravicubeitems.png)
   
-  The level selection screen in "GraviCube," featuring a clear and simple design for navigating different stages of the game.
+  A level selection screen from "GraviCube," offering clear and simple navigation for players to explore various stages of the game.
 
   ---
 
   ### 7. Inventory System in RPG
   ![Inventory System in RPG](images/hvm.png)
   
-  An inventory system interface from an RPG game, displaying various equipment slots and items available in the store. The design emphasizes clarity and ease of use.
+  An inventory system interface from an RPG game, designed to display various equipment slots and items available in the store. The emphasis is on clarity and ease of use.
 
   ---
 
@@ -109,17 +109,10 @@ Over the past year, I've significantly expanded my web development skills. A yea
 
 </details>
 
-<!--
-**turacept/turacept** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📞 Let's Connect
 
-Here are some ideas to get you started:
+I'm always open to new opportunities and collaborations. Whether you're interested in discussing a project, need advice, or just want to chat, feel free to reach out:
 
---🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Email:** [weston@techsake.ca](mailto:weston@techsake.ca)
+- **LinkedIn:** [https://www.linkedin.com/in/weston-forbes/](#)
+- **Twitter:** [https://twitter.com/WestonFor](#)
