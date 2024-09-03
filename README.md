@@ -3,16 +3,26 @@
 
 Over the past 10 years, I've had the privilege of diving deep into a variety of projects, spanning **Web and Software Development**, **APIs**, **Mobile Apps**, **Libraries**, and much more.
 
-## 🔧 My Core Expertise
+## 🔧 My Core Focus
+
+<details>
+  <summary>Click to explore my focus</summary>
+
+  <br/>
+  
 My journey has primarily revolved around **Game Development with Unity**, which has been my passion and focus since I first joined GitHub. In addition to personal projects, I offer contract Game Development services. Feel free to reach out at [weston@techsake.ca](mailto:weston@techsake.ca) for collaboration opportunities.
 
 As the Lead Developer and Founder of **TechSake**, I established this group to create a collaborative space within the expansive world of computer science. While much of my development has been solo, I'm now embracing collaboration and expanding my skill set, particularly in web development.
 
 This past year has been pivotal in my growth as a web developer. What started as a basic understanding of React and static web pages has evolved into the successful creation of a custom social media web application, leveraging the power of the .NET Aspire toolset.
 
+</details>
+
 ## 🌟 Highlights & Achievements
 <details>
   <summary>Click to explore my highlights</summary>
+
+  <br/>
   
 - **10+ Years on GitHub:** A journey of continuous learning and growth across various domains.
 - **Unity Expertise:** Spearheaded multiple game development projects, from concept to deployment.
@@ -24,6 +34,8 @@ This past year has been pivotal in my growth as a web developer. What started as
 
 <details>
   <summary>Click to explore my skills</summary>
+
+<br/>
 
 - **C#**  
   **Advanced** – Projects: [Project 1](#), [Project 2](#)
@@ -52,6 +64,8 @@ This past year has been pivotal in my growth as a web developer. What started as
 
 <details>
   <summary>Click to explore my work</summary>
+
+<br/>
 
   ### 1. Social Tab Interface
   ![Social Tab Interface](images/mobilgame.png)
