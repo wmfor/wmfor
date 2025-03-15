@@ -6,8 +6,8 @@ I'm a passionate software developer from Canada 🇨🇦, currently attending **
 ### 💻 Technologies I use:
 
 - **Languages**: 
-  ![Java](https://img.shields.io/badge/-Java-black?logo=java) 
-  ![C#](https://img.shields.io/badge/-C%23-black?logo=csharp) 
+  ![Java](https://img.shields.io/badge/-Java-black?logo=openjdk) 
+  ![C#](https://img.shields.io/badge/-C%23-black?logo=cshrp) 
   ![Python](https://img.shields.io/badge/-Python-black?logo=python) 
   ![PHP](https://img.shields.io/badge/-PHP-black?logo=php) 
   ![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript) 
@@ -18,7 +18,7 @@ I'm a passionate software developer from Canada 🇨🇦, currently attending **
   ![Dart](https://img.shields.io/badge/-Dart-black?logo=dart)
 
 - **Databases**: 
-  ![Oracle](https://img.shields.io/badge/-Oracle-black?logo=oracle)
+  ![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle%20Cloud-F80000?logo=oracle)
 
 - **Tools & Platforms**:
   ![Azure](https://img.shields.io/badge/-Azure-black?logo=microsoft-azure) 
