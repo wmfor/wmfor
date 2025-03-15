@@ -18,7 +18,7 @@ I'm a passionate software developer from Canada 🇨🇦, currently attending **
   ![Dart](https://img.shields.io/badge/-Dart-black?logo=dart)
 
 - **Databases**: 
-  ![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle%20Cloud-F80000?logo=oracle)
+  ![Oracle](https://img.shields.io/badge/-Oracle-black?logo=oracle)
 
 - **Tools & Platforms**:
   ![Azure](https://img.shields.io/badge/-Azure-black?logo=microsoft-azure) 
