@@ -1,7 +1,7 @@
 # Hi there, I'm Weston 👋
 
 ## 👨‍💻 About Me
-I'm a passionate software developer from Canada 🇨🇦, currently attending **Mohawk College of Applied Arts and Technology** in Hamilton, Ontario. I'm working towards an **Advanced Diploma in Software Development** and planning to pursue a **Bachelor of Technology (BTech)** at McMaster University.
+I'm a passionate software developer from Canada 🇨🇦, currently attending **Mohawk College of Applied Arts and Technology** in Hamilton, Ontario. I'm working towards an **Advanced Diploma in Software Development** and planning to pursue a **Bachelors of Technology (BTech)** at McMaster University.
 
 ### 💻 Technologies I use:
 
