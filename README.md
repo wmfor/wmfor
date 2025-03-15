@@ -7,7 +7,7 @@ I'm a passionate software developer from Canada 🇨🇦, currently attending **
 
 - **Languages**: 
   ![Java](https://img.shields.io/badge/-Java-black?logo=openjdk) 
-  ![C#](https://img.shields.io/badge/-C%23-black?logo=cshrp) 
+  ![C#](https://img.shields.io/badge/-cshrp-black?logo=cshrp) 
   ![Python](https://img.shields.io/badge/-Python-black?logo=python) 
   ![Lua](https://img.shields.io/badge/-Lua-black?logo=lua) 
   ![PHP](https://img.shields.io/badge/-PHP-black?logo=php) 
