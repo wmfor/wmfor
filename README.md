@@ -9,6 +9,7 @@ I'm a passionate software developer from Canada 🇨🇦, currently attending **
   ![Java](https://img.shields.io/badge/-Java-black?logo=openjdk) 
   ![C#](https://img.shields.io/badge/-C%23-black?logo=cshrp) 
   ![Python](https://img.shields.io/badge/-Python-black?logo=python) 
+  ![Lua](https://img.shields.io/badge/-Lua-black?logo=lua) 
   ![PHP](https://img.shields.io/badge/-PHP-black?logo=php) 
   ![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript) 
   ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5) 
