@@ -16,7 +16,7 @@ Currently attending **Mohawk College of Applied Arts and Technology** in Hamilto
   ![Dart](https://img.shields.io/badge/-Dart-black?logo=dart)
 
 - **Databases**: \
-  ![Oracle](https://img.shields.io/badge/-Oracle-black?logo=oracle)
+  ![Oracle](https://img.shields.io/badge/-Oracle?logo=oracle)
   ![Firebase](https://img.shields.io/badge/-Firebase-black?logo=firebase)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb)
 
