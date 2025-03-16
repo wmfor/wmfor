@@ -30,15 +30,6 @@ I'm a passionate software developer from Canada 🇨🇦, currently attending **
 
 ### 🧑‍💻 Current Projects:
 - **[TechSake](https://github.com/yourusername/techsake)**: A social network for computer science enthusiasts.
-- **[600 Doors](https://github.com/yourusername/600doors)**: A video game where players explore a world with 600 doors.
-- **[Lombardi](https://github.com/yourusername/lombardi)**: A clothing store app to showcase products and manage inventory.
-
-### 🌱 Currently Learning:
-- Building a custom avatar generator.
-- Exploring AI with a focus on text-based models.
-- Enhancing my understanding of Oracle and cloud technologies.
-
-Feel free to explore my repositories, and reach out if you want to collaborate! 👨‍💻
 
 
 ## 📧 Get in Touch
