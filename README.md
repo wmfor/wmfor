@@ -3,7 +3,7 @@ I'm a passionate hopeful Software Engineer from Canada 🇨🇦, currently atten
 
 ### Technologies I use:
 
-- **Languages**: 
+- **Languages**: \
   ![Java](https://img.shields.io/badge/-Java-black?logo=openjdk) 
   ![C#](https://img.shields.io/badge/-C%23-black?logo=cshrp) 
   ![Python](https://img.shields.io/badge/-Python-black?logo=python) 
@@ -16,10 +16,10 @@ I'm a passionate hopeful Software Engineer from Canada 🇨🇦, currently atten
   ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)
   ![Dart](https://img.shields.io/badge/-Dart-black?logo=dart)
 
-- **Databases**: 
+- **Databases**: \
   ![Oracle](https://img.shields.io/badge/-Oracle-black?logo=oracle)
 
-- **Tools & Platforms**:
+- **Tools & Platforms**:\
   ![Azure](https://img.shields.io/badge/-Azure-black?logo=microsoft-azure) 
   ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker) 
   ![Nginx](https://img.shields.io/badge/-Nginx-black?logo=nginx) 
