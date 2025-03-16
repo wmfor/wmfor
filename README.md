@@ -1,5 +1,4 @@
-## README.md
-I'm a passionate hopeful Software Engineer from Canada 🇨🇦, currently attending **Mohawk College of Applied Arts and Technology** in Hamilton, Ontario. I'm working towards an **Advanced Diploma in Software Development** and planning to pursue a **Bachelors of Technology (BTech)** @ McMaster University.
+currently attending **Mohawk College of Applied Arts and Technology** in Hamilton, Ontario. I'm working towards an **Advanced Diploma in Software Development** and planning to pursue a **Bachelors of Technology (BTech)** @ McMaster University.
 
 ### Technologies I use:
 
