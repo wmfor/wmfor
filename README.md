@@ -28,7 +28,7 @@ Attending **Mohawk College of Applied Arts and Technology** in Hamilton, Ontario
   ![Namecheap](https://img.shields.io/badge/-Namecheap-black?logo=namecheap)
 
 ### Current Projects:
-- **[TechSake](https://github.com/yourusername/techsake)**: A social network for computer science enthusiasts.
+- **[TechSake](techsake.ca)**: A social network for computer science enthusiasts.
 
 
 ## Get in Touch
