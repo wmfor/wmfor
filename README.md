@@ -1,9 +1,7 @@
-# Hi there, I'm Weston 👋
-
-## 👨‍💻 About Me
+## About Me
 I'm a passionate software developer from Canada 🇨🇦, currently attending **Mohawk College of Applied Arts and Technology** in Hamilton, Ontario. I'm working towards an **Advanced Diploma in Software Development** and planning to pursue a **Bachelors of Technology (BTech)** at McMaster University.
 
-### 💻 Technologies I use:
+### Technologies I use:
 
 - **Languages**: 
   ![Java](https://img.shields.io/badge/-Java-black?logo=openjdk) 
@@ -28,10 +26,10 @@ I'm a passionate software developer from Canada 🇨🇦, currently attending **
   ![Vercel](https://img.shields.io/badge/-Vercel-black?logo=vercel) 
   ![Namecheap](https://img.shields.io/badge/-Namecheap-black?logo=namecheap)
 
-### 🧑‍💻 Current Projects:
+### Current Projects:
 - **[TechSake](https://github.com/yourusername/techsake)**: A social network for computer science enthusiasts.
 
 
-## 📧 Get in Touch
+## Get in Touch
 - Email: westonmichaelforbes@gmail.com
 - LinkedIn: [Weston Forbes](https://www.linkedin.com/in/westonforbes/)
