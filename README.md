@@ -1,4 +1,4 @@
-Attending **Mohawk College of Applied Arts and Technology** in Hamilton, Ontario. Working towards an **Advanced Diploma in Software Development** and planning to pursue a **Bachelors of Technology (BTech)** @ McMaster University.
+Attending **Mohawk College of Applied Arts and Technology** in Hamilton, Ontario. Working towards an **Advanced Diploma in Software Development**
 
 ### Technologies I use:
 
