@@ -12,7 +12,6 @@ Attending **Mohawk College of Applied Arts and Technology** in Hamilton, Ontario
   ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5) 
   ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3) 
   ![React](https://img.shields.io/badge/-React-black?logo=react) 
-  ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js)
   ![Dart](https://img.shields.io/badge/-Dart-black?logo=dart)
 
 - **Databases**: \
